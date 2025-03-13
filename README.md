@@ -71,13 +71,10 @@ Me chamo Carlos Eduardo Garcia, tenho 18 anos e sou natural de São Paulo. Concl
 
 ### 📊 Estatísticas
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEDMNgarcia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div>
+<a href="https://github.com/amandinha-gomes">
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEDMNGarcia&layout=compact&langs_count=7&theme=dracula">
+   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=CEDMNGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEDMNGarcia&layout=compact&langs_count=7&theme=dracula"/> -->
+<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CEDMNGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+</div>
